@@ -1,3 +1,6 @@
+# Write a program that takes the number of seconds passed (จำนวนวินาทีที่ผ่านไป)
+#  and displays the same amount of time in hours, minutes, and seconds.
+
 seconds = int(input("How many seconds have passed? "))
 hours = int(seconds / 3600)
 seconds -= hours*3600

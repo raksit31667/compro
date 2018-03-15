@@ -1,3 +1,12 @@
+# A landlord is designing the area in front of his house 
+# by placing a circular pond (สระน้ำรูปวงกลม) at the center, 
+# and make the remaining area a lawn with grass (ทำพื้นที่ที่เหลือให้เป็นสนามหญ้า), as shown.
+
+# Please help him calculate the area of the lawn (i.e., the green area) 
+# from the values of x, y, and d. Note that the pond will always be smaller 
+# than the available area. (สระน้ำจะไม่ใหญ่เกินพื้นที่ที่มีอยู่) The result must be displayed
+#  with 2 decimal places.
+
 import math
 def all_area(width,length):
     return width*length
